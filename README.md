@@ -1,1 +1,1 @@
-# day13
+The SRM Smart Bus Fare Calculator is a C-based program designed to automate the fare calculation process for SRM University’s shuttle system. It calculates bus fares for multiple passengers based on distance traveled, age category, and travel time (peak or non-peak hours). The system applies discounts and surcharges dynamically using nested conditional statements and logical operators, ensuring fair and rule-based fare computation.
